@@ -1,4 +1,6 @@
 #include<stdio.h>
+#include<math.h>
+
 
 typedef  struct point point;
 struct point
